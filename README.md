@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Easy MS teams clone web application using React-chat-engine for handling the messages
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### [Click here for live preview](https://chat-react-teams.netlify.app/)
+
+## TEST PROFILES
+
+Profile 1
+
+### [username : user1 ]
+
+### [password : 123456 ]
+
+Profile2
+
+### [username : user2 ]
+
+### [password : 123456 ]
+
+![Teams Build with Chat Engine](https://i.ibb.co/vDhx8Md/Whats-App-Image-2021-01-26-at-02-01-43.jpg)
 
 ## Available Scripts
 
